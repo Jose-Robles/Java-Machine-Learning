@@ -8,8 +8,8 @@
  * Standard **Forward pass** stable to run.
  * New package to create topologies called [Controllers](https://github.com/Jose-Robles/Java-Machine-Learning/tree/master/Controllers)
  * Two new packages to run Neural Networks:
- * * [AlphaDeployment](https://github.com/Jose-Robles/Java-Machine-Learning/tree/master/AlphaDeployment) in order to debug and play.
- * * [BetaDeployment](https://github.com/Jose-Robles/Java-Machine-Learning/tree/master/BetaDeployment) in order to get onnly the result and to give the user a cleaner environment.
+   * [AlphaDeployment](https://github.com/Jose-Robles/Java-Machine-Learning/tree/master/AlphaDeployment) in order to debug and play.
+   * [BetaDeployment](https://github.com/Jose-Robles/Java-Machine-Learning/tree/master/BetaDeployment) in order to get onnly the result and to give the user a cleaner environment.
 
 ### First release (09/01/19)
  * Tried to create the topology.
